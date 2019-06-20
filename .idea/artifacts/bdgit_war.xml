@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bdgit:war">
+    <output-path>$PROJECT_DIR$/bdgit/target</output-path>
+    <root id="archive" name="bdgit.war">
+      <element id="artifact" artifact-name="bdgit:war exploded" />
+    </root>
+  </artifact>
+</component>
